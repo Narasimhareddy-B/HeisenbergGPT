@@ -1,0 +1,824 @@
+{{italic title}}
+----
+:'''Season''' [[Breaking Bad (season 1)|1]] [[Breaking Bad (season 2)|2]] [[Breaking Bad (season 3)|3]] [[Breaking Bad (season 4)|4]] [[Breaking Bad (season 5)|5]] | [[Breaking Bad|'''Main''']]
+----
+
+'''''[[w:Breaking Bad|Breaking Bad]]''''' (2008–2013) was a critically acclaimed American [[w:AMC (TV channel)|AMC]] drama about a 50-year-old high school [[chemistry]] teacher, Walter White, (played by [[w:Bryan Cranston|Bryan Cranston]]) who discovers that he has terminal lung cancer. Walter decides to use his extensive knowledge of chemistry to enter the drug trade and produce [[w:crystal methamphetamine|crystal methamphetamine]], using the profits to provide for his family after his death. The term to "break bad" is American Southeast slang meaning to turn against one's previously lawful lifestyle for one of criminal acts, usually at the cost of someone else's life or well-being.
+
+=== ''Seven-Thirty-Seven'' [2.01] ===
+
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': Adjusting for inflation &ndash; good state college &ndash; adjusting for inflation, say $45,000 a year, two kids, four years of college...$360,000. Remaining mortgage on the home, $107,000. Home equity line, $30,000, that's $137,000. Cost of living, food, clothing, utilities &ndash; say, two grand a month? I mean, that should put a dent in it, anyway. 24K a year provides for, say, ten years. That's $240,000, plus 360 plus 137...seven thirty-seven. $737,000, that's what I need. That is what I need. You and I both clear about 70 grand a week. That's only ten and a half more weeks. Call it eleven. Eleven more drug deals and always in a public place from now on. It's doable. Definitely doable.
+
+<hr width="50%" />
+:'''[[w:Jesse Pinkman|Jesse]]''': Oh, we are dead. Dead men! ''Muerto'', or ''muerte'', or however the hell you...Jesus...
+:'''Walter''': This is conjecture.
+:'''Jesse''': This is conjecture?
+:'''Walter''': Conjecture, yes. And conjecture isn't helping.
+:'''Jesse''': Oh, my conjecture isn't helping?
+:'''Walter''': Could you just state the facts?
+:'''Jesse''': Alright, fine, facts in. Fact A: My phone rang like eight times last night. Dead air, hang-ups every time. Second fact? Like three in the morning, I saw that black Caddy of his cruising my neighborhood. No headlights.
+:'''Walter''': No, if he wanted to kill us, he would have done it at the junkyard.
+:'''Jesse''': What is that? Conjecture? Are you basing that on that he's got a normal, healthy brain or something? Did you not see him beat a dude to death for, like, nothing? And that way&ndash;that way he just kept staring at us. Saying, "You're done." You're done?! You wanna know what that means? I will tell you what that means! That means exactly how it sounds, yo! Alright, we are witnesses, we are loose ends! Right now, Tuco's thinking, "Yeah, hey, they cook good meth, but can I trust them?" What happens when he decides "no"?
+
+<hr width="50%" />
+:''[Jesse is explaining how he will kill Tuco]''
+:'''Jesse''': Alright, say we set up one last sale - this is ''providing'' he doesn't decide to ''waste us'' before then. Now every time we bring in a new batch, he always tests the product, right? So... as his head is down, y'know giving it a snort, just: pop, pop, pop!
+:'''Walter''': Pop, pop, pop? So, three shots?
+:'''Jesse''': Yeah, three shots, or I dunno, two?
+:'''Walter''': No, wait- so is it two or is it three?
+:'''Jesse''': I mean, two would probably work, I guess, yeah.
+:'''Walter''': Okay, two shots. Two shots in the chest, two shots in the face, what?
+:'''Jesse''': Man, c'mon-
+:'''Walter''': ''No'', I am just trying to understand how this works! ''[pause]'' Okay. Alright, we'll put a pin in that - but by ''now'', the big guy, Gonzo, he's probably coming at you, right?
+:'''Jesse''': Yeah...
+:'''Walter''': Right, so you turn towards him-
+:'''Jesse''': Yeah, just ''whale on him-''
+:'''Walter''': -and then, how many shots for him? I mean, he's a big guy, right? How many shots does that take?
+:'''Jesse''': I dunno, three? Three shots?
+:'''Walter''': Okay, three shots. Okay, Tuco and Gonzo, two men down...now, is there anyone else there? I mean, Tuco is ''usually'' with someone else, right? Maybe even a couple of guys, his- his dealers, his posse? ''[Jesse is unable to answer]'' Alright. So, we'll put a pin in that one, too. Now at this point, how many shots have been fired? I mean, you've gotta be running low, right? How many bullets does that gun even take?
+:''[Jesse tries to open the gun to check, but is unable to do so, and eventually puts it down in defeat]''
+:'''Walter''': How can you suggest that we kill a man and you can't even ''open the gun''? It's not that easy, is it?
+:'''Jesse''': Hey, man, Walt...you did it.
+
+<hr width="50%" />
+:'''Jesse''': Look, it's got five bullets. I finally figured out how to...''[Jesse struggles to open the gun]''...look, I just finally...''[Jesse gets it open]''...I figured it out. I say we get a second gun. Right? For you? I mean, don't we like double our chances? I mean, mathematically?
+:'''Walter''': I've got a better idea.
+:'''Jesse''': Oh, thank God! Alright, what is it, Mr. White? Lay it on me.
+:'''Walter''': ''[holds up a small bag of...]'' Beans.
+:'''Jesse''': Beans?
+:'''Walter''': They're castor beans.
+:'''Jesse''': So what are we gonna do with them? Are we just gonna grow a magic beanstalk, huh? Climb it and escape?
+:'''Walter''': We are going to process them into ricin.
+:'''Jesse''': Rice and beans?
+:'''Walter''': ''[rolls his eyes]'' ''Ricin.'' It's an extremely effective poison. It's toxic in small doses. Also fairly easy to overlook during an autopsy.
+:'''Jesse''': Alright. Alright, so...
+:'''Walter''': ''[slaps Jesse's hand away from the beans]'' Don't touch them!
+:'''Jesse''': Seriously? You can get poisoned from beans?
+:'''Walter''': Yes. Back in the late ‘70s, ricin was used to assassinate [[w:Georgi Markov|a Bulgarian journalist]]. The KGB modified the tip of an umbrella to inject a tiny pellet into the man’s leg. And we’re talking about an amount not much bigger than the head of a pin.
+:'''Jesse''': But it... it killed him?
+:'''Walter''': Oh, yes. Now, we just need to figure out a delivery device. And then, no more Tuco.
+
+<hr width="50%" />
+:'''[[w:Skyler White|Skyler]]''': I need support. Me, the almost forty-year old pregnant woman with the surprise baby on the way. And the husband with lung cancer who disappears for hours on end and I don't know where he goes and he barely even speaks to me anymore. With the moody son who does the same thing. And the overdrawn checking account. And the lukewarm water heater that leaks rusty looking crap and is rotting out the floor of the utility closet and we can't even afford to fix it! But ''oh'', I see! Now I'm supposed to go, "Hank, please, what can I possibly do to further benefit my spoiled, kleptomaniac bitch sister who somehow always manages to be the center of attention?" 'Cause God knows she's the one with the ''really'' important problems!
+
+=== ''Grilled'' [2.02] ===
+:'''Tuco''': Last two days, I couldn’t get Gonzo on the phone. He’s been acting all pouty on account of No Doze. Explain to me. How is it my fault that that little ''bitch'' did not know his place? ''[pause]'' I saw this coming. I can see the future, you know? It’s this gift that I have deep inside my head. I knew last night they were gonna come try and bust me. Gonzo...he went and snitched to the ''cops!'' That LOUSY SON OF A ''BITCH!'' I TRUSTED HIM LIKE A BROTHER! ''[takes knife]'' I WAS GOOD TO HIM! I WAS '''GOOD!!!!''' I see Gonzo, ''[starts stabbing the table with the knife]'' I'M GONNA '''GUT HIM''', I'M GONNA '''SKIN HIM''', AND I'M GONNA STUFF HIS HIDE FOR A '''HEAVY ''BAG!!!!!!!''''' And every time I hit him, IT'S GONNA BE LIKE A LESSON TO MYSELF! '''YOU NEVER, ''NEVER'' TRUST THE PEOPLE THAT YOU LOVE!'''
+:'''[[w:Jesse Pinkman|Jesse]]''': ''[long pause]'' So, you plan to, uh, ice Gonzo, like...future tense?
+:'''Tuco''': What?
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': You're saying, Tuco, you're saying Gonzo is currently operating as a police informant as far as you know? ''[Tuco nods]'' I'm very sorry to hear that. That's disappointing.
+:'''Jesse''': Yeah. I would waste him, too, yo.
+:'''Tuco''': Shut up.
+:'''Jesse''': Okay.
+
+<hr width="50%" />
+:'''[[w:Marie Schrader|Marie]]''': Chemotherapy and marijuana go together like apple pie and Chevrolet.
+
+<hr width="50%"/>
+:''[Walter and Jesse lament over their failed attempt at poisoning Tuco with a meth sample laced with ricin]''
+:'''Walter''': Chili powder. Did I not already tell you how moronic that was?
+:'''Jesse''': Whatever, man. At least I tried something. Hey, it almost worked, too. How's about you leaving my gun, huh? First you boost it, then you leave it in your house. ''My'' gun.
+:'''Walter''': How was I supposed to know you were chauffeuring Tuco to my doorstep?
+:'''Jesse''': Well, at least he wants you alive.
+
+<hr width="50%" />
+:'''Walter''': We need a plan.
+:'''Jesse''': Think, think. Let's just bum rush him, man. You know, you crack him over the head with something and I'll go for his gun.
+:'''Walter''': Crack him over the head with something? ''[Walter sarcastically holds up a fly swatter]''
+:'''Jesse''': You got the C, man, alright? You're as good as checked out already, okay? You should be all like sacrificial, jumping on a grenade, yo. Just...
+:'''Walter''': Oh, so my life is not the priority here because I'm gonna be dead soon anyway? That's your point?
+:'''Jesse''': Uh, yeah?
+
+<hr width="50%"/>
+:''[Hector, Tuco's invalid uncle, keeps ringing his bell after catching Walter and Jesse attempting to poison Tuco's food]''
+:'''Tuco''': What? What do you want?! No. Don't even tell me you're hungry. Don't go there. ''[Tuco notices Hector is staring at Walter and Jesse]'' Hahaha! Are you mad doggin' them, ''tio''? What, you don't like them? ''[Hector rings the bell]'' One ding. That means yes. ''Tio'' don't like you. Why don't you like them, ''tio''? You don't trust them? ''[Hector rings the bell]'' Why don't you trust them, tio?
+:'''Walter''': Tuco, c'mon, hey, he's, there's clearly some dementia. He's not lucid.
+:'''Tuco''': Shh! Did they do something to you, ''tio''? Was it something that you don't like? ''[Hector rings the bell]'' What did they do to you? ''WHAT DID YOU DO TO MY TIO?!''
+:'''Walter''': Nothing, nothing.
+:'''Tuco''': ''BULLSHIT! MY TIO DOES NOT LIE!''
+:'''Walter''': I don't know. I swear, I don't know. I, no, I, it, maybe it was, I did change the channel on his TV, but, uh...
+:'''Jesse''': Yeah, yeah, yeah, that's it. While you were cooking, you know, he was watching one of those, uh, those, uh, telenovels, y'know, with all those ripe honeys on it? Y'know, he was really into it. I told you not to change the channel, man! Y'know, dude needs his eye candy. That's it!
+:'''Tuco''': Hahahahaha! ''Tio!'' Is that it, ''tio?'' Is that it, ''tio?'' Did they change your ''mamitas?'' ''[Hector is silent]'' What are you telling me, ''tio?'' Huh? Are they punking me? ''[Hector rings the bell]''
+:''[Tuco slowly walks toward Jesse]''
+:'''Jesse''': Hey...no...no, man. No...
+:'''Tuco''': ''COME HERE!''
+:'''Jesse''': Don't shoot!
+:''[Tuco grabs Jesse and drags him outside]''
+:'''Walter''': No, no, Tuco!
+:''[Walter runs after them as Tuco begins to beat up Jesse]''
+:'''Walter''': Tuco...
+:'''Tuco''': ''SHUT UP!''
+:''[Tuco punches Jesse in the stomach and points the rifle at his head]''
+:'''Jesse''': No, please, no! God, please, no! Oh God, I don't wanna die!
+:'''Tuco''': Tell me what you did, Walter!
+:'''Jesse''': Jesus, I don't wanna die! NO!
+:'''Tuco''': ''TELL ME WHAT YOU DID!''
+:''[Walter notices Jesse has dug up a rock]''
+:'''Walter''': We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die.
+:''[Jesse bashes Tuco in the face with the rock. He drops the rifle into a shallow pit. Walter grabs it as Tuco and Jesse scuffle on the ground. Jesse manages to grab a small pistol tucked into Tuco's belt and shoots Tuco in the gut. Tuco screams in pain]''
+:'''Jesse''': ''[kicking Tuco into the shallow pit]'' Who's the bitch now?!
+:'''Walter''': Let him bleed.
+
+=== ''Bit by a Dead Bee'' [2.03] ===
+
+:[''After Walt fakes being in a [[wikipedia:Fugue_state|fugue state]] by stripping naked in a supermarket as an explanation for his and Jesse's whereabouts'']
+:'''[[w:Marie Schrader|Marie]]''': Well, which supermarket? Is it like a big one? Like a chain?
+:'''[[w:Skyler White|Skyler]]''': Marie...
+:'''Marie''': Don't get me wrong. I think it's just great that he's, y'know, back and he's feeling better. I just, I mean, he...naked. He was ''naked'' naked in a supermarket. It wasn't Whole Foods, was it?
+
+<hr width="50%" />
+:''[Hank is interrogating Jesse about his car being found at Tuco's hideout]''
+:'''[[w:Hank Schrader|Hank]]''': So who's your chief, little Injun?
+:'''[[w:Jesse Pinkman|Jesse]]''': What? What does that even mean?
+:'''Hank''': It means I think your story's bullshit. I think you know who Tuco Salamanca was. I think your car was there because ''you'' were there. Tuco had a bullet in him when I got there and I think you know something about that, too.
+:'''Jesse''': So what're you saying? Like, I shot someone with, like, a gun?
+:'''Hank''': You? No. Only shooting that you do is into a Kleenex.
+
+<hr width="50%" />
+:''[Walter is in therapy to help treat his "fugue state"]
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': Look, doctor, I feel fine. Really. Now, if this is ''truly'' necessary, can't I continue as an outpatient?
+:'''Therapist''': Walt, a fugue state is a very serious event. What if you were to disassociate when you were driving? What if you were to get into a situation where you could be shot by the police? You understand we can't allow you to leave, until we're certain what happened is a non-recurring event. Saying you feel fine doesn't solve this.
+:''[Walter considers this]''
+:'''Walter''': Would you tell me about patient confidentiality?
+:'''Therapist''': It's very straightforward; without your permission, I can't disclose anything you tell me to anyone.
+:'''Walter''': What about my family?
+:'''Therapist''': Not to your family, not to the police, not to anyone. The only exception would be if you threatened to kill someone...then I'd be able to tell that person, but only that person.
+:'''Walter''': And you - as a medical practitioner - you abide by these strictures absolutely?
+:'''Therapist''': Yes.
+:'''Walter''': Alright...there was no fugue state. I remember everything. ''[stands up, removes tubing]'' The truth is... I couldn't stand to spend another second in that house. I just had to...get out, and so I left. I didn't think about it, I just did it. I-I walked for a long time, and when I couldn't walk anymore, I hitchhiked. I got as far as Gallup... ''[sighs]'' ...and then it was just time to come home.
+:'''Therapist''': So, being found naked in a supermarket; that was your way of giving credibility to a lie, of avoiding questions about your disappearance? Why run away? What did you feel you had to run from?
+:'''Walter''': Doctor, my wife is seven months pregnant with a baby we didn't intend. My fifteen-year old son has cerebral palsy. I am an extremely overqualified high school chemistry teacher. When I can work, I make $43,700 per year. I have watched all of my colleagues and friends surpass me in every way imaginable, and within eighteen months, I will be dead. And you ask why I ran?
+
+<hr width="50%" />
+:''[Hank and Gomez have had Tuco's uncle Hector brought to the interrogation room in hopes that he'll identify Jesse]''
+:'''Hank''': Gomie, you want to do the honors?
+:'''Gomez''': ''Buenos tardes, Señor Salamanca. Entiendes el ingles?'' ''["Good evening, Mr. Salamanca. Do you understand English?"]''
+:''[Hector rings the bell]''
+:'''Hank''': What does that mean?
+:'''Nurse''': That means "yes". "Yes" is a bell, "no" is no bell.
+:'''Jesse''': Oh c'mon, this is bullshit! I mean look at this dude, alright? He doesn't even know what planet he's living on!
+:'''Gomez''': ''Señor'', are we on the planet Mars? ''[no bell]'' Are we on the planet Saturn? ''[no bell]'' Are we on the planet Earth? ''[Hector rings the bell]'' ''Señor'', is today Friday? ''[no bell]'' Is today Monday? ''[no bell]'' Is today Tuesday? ''[Hector rings the bell]''
+:'''Hank''': Okay, seems like he's all there. Let's go for it.
+:'''Gomez''': ''Señor'', was this man at your house yesterday? ''[Hector does nothing]'' Señor, was this man at your house yesterday?
+:'''Hank''': This guy right here, he was at your house, right? Was he doing business with your nephew Tuco?
+:'''Gomez''': ''Señor'', are you scared of this man?
+:'''Hank''': Nah, he's not scared. C'mon granddad, why don't you wanna help us out?
+:''[Hector turns to Hank, stands up, and defecates in his chair]''
+:'''Gomez''': Oh man!
+:'''Hank''': I guess that's a "no"....
+
+<hr width="50%" />
+:'''Walter''': Pay phone?
+:'''Jesse''': Pay phone, middle of nowhere, nobody followed. So how'd it go?
+:'''Walter''': Okay. You?
+:'''Jesse''': They sweated me plenty, but they finally cut me loose. So you getting out of there?
+:'''Walter''' Tomorrow. So who came for you? The DEA? What'd they ask you?
+:'''Jesse''': Yeah, that's the thing, y'know? Your scumbag brother-in-law took my rainy day fund.
+:'''Walter''': Your what? What is that?
+:'''Jesse''': My rainy day fund, $68,000, okay? Cue ball son of a bitch laughed in my face. Now I got, like, eighty bucks to my name.
+:'''Walter''': Wait, wait, what does he know? Does he know it's your money?
+:'''Jesse''': No, man, he doesn't know shit, okay? The plan worked. He bought it. I got bills due, man. I'm screwed.
+:'''Walter''': Did he mention my name?
+:'''Jesse''': No, thanks for caring.
+:'''Walter''': How about the basement?
+:'''Jesse''': It's clean.
+:'''Walter''': And the RV?
+:'''Jesse''': Badger's cousin took it to his garage. It's safe.
+:'''Walter''': Can he get it running again?
+:'''Jesse''': Why?
+:'''Walter''': So we can cook.
+:'''Jesse''': You still wanna cook? Seriously?
+:'''Walter''': What's changed, Jesse?
+
+=== ''Down'' [2.04] ===
+
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': ''[to Skyler]'' Our son doesn't know who [[w:Boz Scaggs|Boz Scaggs]] is. We have failed as parents.
+
+<hr width="50%" />
+:''[Movers are taking away Jesse's things]''
+:'''[[w:Jesse Pinkman|Jesse]]''': Hey, hey! What the hell, yo? I thought this was just a wake-up call!
+:'''Mrs. Pinkman''': We are putting it in storage. When you decide to grow up, you can have it back.
+:'''Jesse''': No, why don't you grow up, mom? Ginny wanted me here! Alright, I was the one who took care of her. Alright, I took her to her appointments and made her lunch everyday. I earned this!
+:'''Mrs. Pinkman''': You did not make her lunch everyday.
+:'''Jesse''': What'd you do, huh? She's lying there dying, and where the hell are you?
+:'''Mrs. Pinkman''': Don't start with me.
+:'''Jesse''': And now what? You decided to, oh I don't know, make your eldest son homeless? Wow, great family, mom!
+:''[Mrs. Pinkman slaps Jesse]''
+:'''Mrs. Pinkman''': Why are you like this?! Why?! ''[pause]'' You have two sets of keys and the padlock to the garage. Leave them on the kitchen counter when you leave.
+:'''Jesse''': No, mom, mom, mom! Hey, where am I supposed to go?
+:'''Mrs. Pinkman''': I don't know, sweetheart. But please, turn your life around.
+:'''Jesse''': Yeah, yeah, this is gonna help big time with that. BITCH!
+
+<hr width="50%" />
+:''[Walter picks up the phone]''
+:'''Walter''': White residence.
+:'''Jesse''': Yo, it's me. Is this a good time?
+:'''Walter''': ...''What part of "no contact" didn't you understand?!''
+:'''Jesse''': I know, but there's a problem.
+:'''Walter''': ''I don't care. We agreed''...''[Skyler walks by]''...no amount of pay-per-view channels is going to make a difference! Honey, we're happy with our cable provider, right? Yep, we're happy! ''[Walter quickly hangs up]''
+:...
+:'''Walter''': ''What?!''
+:'''Jesse''': Yo, I get that I shouldn't call, but I'm in a situation over here and I need my money.
+:'''Walter''': I ''just'' gave you $600!
+:'''Jesse''': Yeah, and thanks, Daddy Warbucks, but that was before my housing situation went ''completely testicular'' on me, okay?!
+:'''Walter''': You smoked the entire 600, didn't you.
+:'''Jesse''': What? No!
+:'''Walter''': Yes!
+:'''Jesse''': ''No!''
+:'''Walter''': Look, Jesse. Your problems are just that: ''your'' problems. No contact! Do not call here ever! When the moment is right, I will call-
+:'''Jesse''': Mr. White, you're not listening-
+:'''Walter''': No, no, no! ''[hangs up]''
+:'''Jesse''': They're kicking me out of my house!
+
+<hr width="50%" />
+:'''[[w:Skyler White|Skyler]]''': Okay, don't talk, Walt! Shut up and say something that isn't complete bullshit! You want to know what you have to do? You have to tell me what's really going on right now &ndash; today. No more excuses, no more apologies, no more of these...these obvious desperate breakfasts! You don't wanna lose contact with me, Walt? Good. Then tell me. Now.
+:''[long pause]''
+:'''Walter''': Tell you what?
+
+<hr width="50%" />
+:''[Walter sees Jesse's RV parked in front of his house]''
+:'''Walter''': What the f...?
+:''[Walter knocks on the door and Jesse lets him in]''
+:'''Jesse''': Yo, I'm really sorry, okay?
+:'''Walter''': What is wrong with you? Why are you blue? Aw Jesus...
+:'''Jesse''': Long story. Let's just say it starts with my parents being greedy kleptomaniac douchebags.
+:'''Walter''': Are you actually this stupid...
+:'''Jesse''': No, look, I know this isn't an optimal situation...
+:'''Walter''': ...to come to my house, and park on my street, driving this vehicle? I mean, what the hell is wrong with you?! I'm really asking!
+:'''Jesse''': Nothing. I'm sorry, I just...
+:'''Walter''': What if Skyler had seen you, huh? What then? What was the plan then, genius? Hm?
+:'''Jesse''': I don't know.
+:'''Walter''': You don't know. You know why you don't know? Because you don't think! That's why! You don't think! You never figured out how to think, did you, big man?
+:'''Jesse''': Hey, I said I was sorry, alright? I just need my half of the money and I'll go!
+:'''Walter''': Your half? There is no your half of the money! There is only my all of it, do you understand?! Why, why should I be penalized because of your sloppiness?!
+:''[Walter pushes Jesse]''
+:'''Jesse''': Look, that is completely uncool, alright? We agreed 50/50, partners!
+:'''Walter''': Partners in what? What exactly do you do here, I've been meaning to ask. Because I'm the producer, right? I cook. But from what I can tell, you are just a drug addict! You are a pathetic junkie too stupid to understand and follow simple rudimentary instructions! Too stupid to&ndash;
+:''[Jesse grabs Walter by the head and shoves him into the wall. The two struggle. Jesse pushes Walter to the ground and starts to strangle him. He lifts his fist up to punch Walter.]''
+:'''Walter''': ...Do it...
+:''[Jesse lowers his fist and collapses next to Walter, both exhausted]''
+
+=== ''Breakage'' [2.05] ===
+
+:'''[[w:Hank Schrader|Hank]]''': So things are quiet, y'know? Not a lot of crystal on the streets right now.
+:'''Merkert''': Good.
+:'''Hank''': Of course that's not gonna last. I'm waiting to see who's gonna rally the roaches now that his turf is up for grabs.
+:'''Merkert''': No takers so far?
+:'''Hank''': Well, we keep hearing a name. Heisenberg. Lately pretty much every dimebagger we come across.
+:'''Merkert''': Heisenberg?
+:'''Hank''': Yeah, I know. Maybe it's a tweaker urban legend. Still, somebody somewhere is cooking that big blue we keep finding.
+
+<hr width="50%" />
+:'''Jesse''': I got profile now, yo. Don't you get that? DEA's up my ass. ''[takes a sip of his beer]'' No, I'm not exposing myself to that level of risk for chump change. - No way.
+:'''Walter''': ''[in a calm tone]'' - Then what do you suggest we do? I don't think either of us are eager to jump into bed with another Tuco.
+:'''Jesse''': Tuco? No, man ... no more Taco... I got bills, man.
+:'''Walter''': ''[squints eyes at Jesse]'' You've got bills? 
+:'''Jesse''': Rent, yo. Responsibilities and whatnot. I've already lost more than I've made and I am tired of dicking around out here. ''[takes a sip of his beer]''
+:'''Walter''': You wanna know how much I've got left? After completing my first round of treatment and financing the world's most expensive alibi? Zero. Zip. Nothing.
+
+<hr width="50%"/>
+:'''Jesse''': We got to be Tuco. Alright, cut out the middle man, run our own game.
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': So you're going to what? Snort meth off a bowie knife? You're gonna beat your homies to death when they "diss" you?
+:'''Jesse''': Look, I know some guys, alright? I can create a network. Look, we control production and distribution. That way we stay off the front lines while moving some serious glass. I mean, the point here is to make money, right? Sky high stacks!
+:'''Walter''': No.
+:'''Jesse''': No? That's not the point?
+:'''Walter''': No, I am not willing to do that!
+:'''Jesse''': Who said anything about you?
+:'''Walter''': I don't vote for this plan. I'm not comfortable bringing in unknown entities into our operation.
+:'''Jesse''': Yeah? Well, you don't get to vote.
+:'''Walter''': I beg your pardon? This is a partnership, remember?
+:'''Jesse''': I remember, oh, I remember. That you cook, I sell. That was the division of labor when we started all this. And that's exactly how we should have kept it! 'Cause I sure as hell didn't find myself locked in a trunk or on my knees with a GUN to my head before your greedy old ass came along, alright?
+:'''Walter''': Alright, I will admit to a bit of a learning curve.
+:'''Jesse''': Oh-ho!
+:'''Walter''': And perhaps I was overly ambitious. In any case, it's not gonna happen that way anymore.
+:'''Jesse''': Yeah, damn straight. Know why? 'Cause we do things my way this time or I walk! You need me more than I need you...Walt.
+
+<hr width="50%" />
+:'''[[w:Walter White, Jr.|Walter Jr.]]''': Yeah. Hell yeah. Kick ass and take names.
+
+<hr width="50%"/>
+:''[Jesse and Walter meet after Skinny Pete gets robbed]''
+:'''Jesse''': ''[hands Walter a paper bag]'' Your half. 15K, that's what I'm talking about. ''[Walter scowls at Jesse]'' Uh, you're welcome? Jesus!
+:'''Walter''': Help me understand the math, okay? I gave you one pound, correct? You and I split $2,000 per ounce, $1,000 each. One pound - that's sixteen ounces. Sixteen ounces should net to me $16,000. ''Sixteen'', not fifteen.
+:'''Jesse''': ''[quietly]'' Something came up.
+:'''Walter''': Something came up?
+:'''Jesse''': One of my guys got held up by a couple junkies... lost an ounce. But it's cool, okay? Skinny Pete's cool.
+:'''Walter''': Oh-ho! So you're saying that your guy got robbed - or rather, ''you'' got robbed - but, it doesn't matter. Hm?
+:'''Jesse''': Dude, it's called breakage, okay? Like Kmart, shit breaks.
+:'''Walter''': And you're thinking this is acceptable?
+:'''Jesse''': It's the cost of business, yo! You're sweating me over a grand?
+:'''Walter''': Hey, look, I'm just the chemist here! I'm not the street guy, ''yo''... but it seems to me that what you call breakage is just you making a fool of yourself. I've got another technical term for you: non-sustainable business model.
+:'''Jesse''': You're focusing on the negative. Six grand a ''day'', we're making. What's your problem?
+:'''Walter''': What happens when word gets out, and it's open season on these clowns you've hired, hm? Once everyone knows, that ''Jesse Pinkman, drug lord,'' can be robbed with impunity?
+:'''Jesse''': Man, come on-
+:'''Walter''': You think Tuco had breakage? I guess it's true, he did... he broke bones. He broke the skull of anybody who tried to rip him off.
+:'''Jesse''': You want another grand? Is that it?
+:'''Walter''': That's not my point.
+:'''Jesse''': Take it! Here!
+:''[Jesse throws the money into Walter's car. Walter throws it back]''
+:'''Jesse''': Look, you got fifteen thousand you didn't have yesterday! Hey, we're making bank; shit happens! My guys get what they're up against, and they're careful. So am I, and you're all tucked in at night with your precious family. So why don't you just stop being such a freak about everything?
+
+<hr width="50%" />
+:'''Walter''': You asked me what I want you to do.
+:''[Walter places a gun in front of Jesse]''
+:'''Walter''': I want you to handle it.
+
+=== ''Peekaboo'' [2.06] ===
+
+:'''[[w:Jesse Pinkman|Jesse]]''': You got something for me?
+:'''Skinny Pete''': Yeah, I found 'em.
+:''[Skinny Pete hands Jesse a piece of paper]''
+:'''Jesse''': Is this a five or an S?
+:'''Skinny Pete''': Five, yo. No wait...S. No, no...yeah, five.
+:'''Jesse''': Yeah? Jesus, how the hell do you spell "street" wrong? S-T-R-E-A-T?
+:'''Skinny Pete''': Hey, man, I'm slingin' mad volume and fat stackin' benjis, you know what I'm sayin'? I can't be all about, like, spelling and shit.
+:'''Jesse''': Okay. So they got names?
+:'''Skinny Pete''': Hers is like, I dunno, she's just his woman is all. Him, they call Spooge.
+:'''Jesse''': Spooge? Not Mad Dog? Not Diesel? So lemme get this straight, you got jacked by a guy named Spooge?
+
+<hr width="50%"/>
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': The man who invented the diamond. All right. [[w:Tracy Hall|H. Tracy Hall]] &ndash; write this name down. Dr. Hall invented the first reproducible process for making synthetic diamonds. I mean, this is way back in the 50's. Now today, synthetic diamonds are used in oil drilling, electronics, multi-billion dollar industries. Now at the time, Dr. Hall worked for General Electric and he made them a fortune. I mean, incalculable. You want to know how GE rewarded Dr. Hall? A $10 U.S. savings bond. ''[Walt becomes angry but calms himself]'' Anyway, a savings bond printed on carbon-based paper paid to a carbon-based man for something he made out of...carbon.
+
+<hr width="50%" />
+:'''Spooge''': I told ya, Diesel, we ain't holding, man.
+:'''Spooge's Woman''': We shot it all.
+:'''Jesse''': Yeah? You shot an ounce? In a day and a half?
+:'''Spooge''': Yeah.
+:'''Jesse''': Alright, tell you what. Both of you pull it out your butts right now, or I go grab a flashlight and some pliers and go exploring.
+
+<hr width="50%" />
+:'''Gretchen''': Let me just get this straight: Elliott and I offered to pay for your treatment, no strings attached &ndash; an offer which still stands, by the way &ndash; and you turn us down out of pride, whatever. And then you tell your wife that in fact we are paying for your treatment. Without our knowledge, against our will, you involve us in your lie, and you sit here and tell me that that is none of my business?
+:''[long pause]''
+:'''Walter''': Yeah. That's pretty much the size of it.
+:'''Gretchen''': What happened to you? Really, Walt? What happened? Because this isn't you.
+:'''Walter''': What would you know about me, Gretchen? What would your presumption about me be, exactly? That I should go begging for your charity, and you waving your checkbook around like some magic wand is going to make me forget how you and Elliott &ndash; how you and Elliott &ndash; cut me out?
+:'''Gretchen''': What? That can't be how you see it.
+:'''Walter''': It was my hard work. My research. And you and Elliott made millions off it.
+:'''Gretchen''': That cannot be how you see it.
+:'''Walter''': Oh God, that's beautifully done.
+:'''Gretchen''': You left.
+:'''Walter''': You are always the picture of innocence.
+:'''Gretchen''': You left me.
+:'''Walter''': The picture of innocence. Just sweetness and light.
+:'''Gretchen''': You left me. Fourth of July weekend, you and my father and my brothers. And I go up to our room and you are packing your bags. Barely talking. What, did I dream all that?
+:'''Walter''': That's your excuse? To build your little empire on my work?
+:'''Gretchen''': How could you say that to me? You walked away, you abandoned us. Me, Elliott...
+:'''Walter''': Little rich girl, just adding to your millions.
+:'''Gretchen''': I don't even know what to say to you. I don't even know where to begin. I feel so sorry for you, Walt.
+:'''Walter''': ''Fuck you.''
+
+<hr width="50%" />
+:'''Jesse''': You have a good rest of your life, kid.
+
+=== ''Negro Y Azul'' [2.07] ===
+
+:''[A norteño band has written a song about "Heisenberg"]''<br />
+:The city's called Duke,<br />
+:The state's called New Mexico.<br />
+:Among the gangsters,<br />
+:The gringo's fame is inflated<br />
+:'Cause of the new drug they created.<br />
+:They say the color is blue<br />
+:And the quality pure.<br />
+:The potent drug's runnin'<br />
+:Through the city,<br />
+:And no one could stop it<br />
+:If they wanted to.<br />
+:The cartel's runnin' hot because<br />
+:They weren't getting respect.<br />
+:Talkin' 'bout some "Heisenberg"<br />
+:Who owns the market now.<br />
+:No one knows the man since<br />
+:They've never seen his face.<br />
+:The cartel's 'bout respect<br />
+:And they ain't forgiving.<br />
+:But that homie's dead,<br />
+:He just doesn't know it yet.<br />
+:Heisenberg's fame has got<br />
+:Down to Michoacan.<br />
+:From way far away<br />
+:They want to taste that meth.<br />
+:That blue stuff crossed the border,<br />
+:Now New Mexico's livin' up to its name.<br />
+:Looks just like Mexico<br />
+:In all the drugs it's hiding.<br />
+:Except there's a gringo boss<br />
+:And he's known as "Heisenberg".<br />
+:The cartel's runnin' hot because<br />
+:They weren't getting respect,<br />
+:Talkin' 'bout some "Heisenberg"<br />
+:Who owns the market now.<br />
+:No one knows the man since<br />
+:They've never seen his face.<br />
+:The fury of the cartel<br />
+:Ain't no one escaped it yet.<br />
+:But that homie's dead,<br />
+:He just doesn't know it yet.
+
+<hr width="50%"/>
+:'''[[w:Jesse Pinkman|Jesse]]''': What are you talking about? 
+:'''[[w:Walter White (Breaking Bad)|Walter]]''':  Apparently, it's all over town. Somebody crossed you, you got angry you crushed their skull with an ATM machine.
+:'''[[w:Jesse Pinkman|Jesse]]''': That's not how it happened.
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': Who cares as long as it's our competitors who believe it and not the police? -Oh, my-- 
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': - No, don't you see how great this is? Look, you.. You are a --
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': Jesse, look at me, you are a [[w:blow fish|blow fish]].
+:'''[[w:Jesse Pinkman|Jesse]]''': What?
+:'''Walter''': A blow fish, think about it. Small in stature, not swift, not cunning, easy prey for predators. But the blow fish has a secret weapon, doesn't he? Doesn't he? What does the blow fish do, Jesse? What does the blow fish do?
+:'''Jesse''': I don't even know what...
+:'''Walter''': The blow fish puffs up, okay? The blow fish puffs himself up four, five times larger than normal, but why? Why does he do that? Because it makes him intimidating, that's why. Intimidating so that the other scarier fish are scared off and that's you. You are a blow fish. Don't you see? It's just all&ndash;all an illusion. It's nothing but air. Now, who messes with the blow fish, Jesse?
+:'''Jesse''': Nobody.
+:'''Walter''': You're damn right.
+
+<hr width="50%"/>
+:'''Tortuga''': Hey white boy, my name's Tortuga. You know what that means?
+:'''[[w:Hank Schrader|Hank]]''': If I have to guess, I'd say that's Spanish for asshole.
+:'''Tortuga''': Tortuga means turtle, and that's me. I take my time but I always win.
+
+<hr width="50%"/>
+:''[The DEA finds Tortuga's severed head on a turtle with the words "Hola DEA" written on it. Hank staggers back to the truck, feeling sick]''
+:'''Vanco''': Schrader, where you going?
+:'''Hank''': E...Evidence bag...bag...
+:''[The other DEA agents laugh]''
+:'''Vanco''': What's the matter, Schrader? You act like you've never seen a severed human head on a tortoise before!
+:''[Four DEA agents gather around the turtle]''
+:'''Vanco''': Hey! Welcome to&ndash;
+:''[A hidden bomb inside the turtle explodes, blowing away three agents and blowing off Vanco's leg]''
+
+<hr width="50%"/>
+:'''Jesse''': The game has changed, yo. This is our city, alright? All of it. The whole damn place. Our territory. We're staking our claim. Yo, we sell when we want, where we want. We're gonna be kings, understand? Well, I'm gonna be king and you guys will be, like, princes or dukes or something.
+:'''Badger''': I wanna be a knight.
+:'''Jesse''': But first things first: we gotta get more dealers, y'know, foot soldiers, alright? Now they'll be working for you, you're working for me, and I'm working for you. You follow me? Layered, like nachos. Exponential growth. That's success, with a capital S.
+:'''Skinny Pete''': Straight up, straight up.
+:'''Combo''': Fo' shizzle.
+:'''Badger''': Friggin' awesome.
+:''[Everybody puts their hands in. Jesse leaves, heads outside and gets into Walter's car]''
+:'''Jesse''': Well, we're set. Boys are ready. Gonna make some mad cheddar, yo. ''[Walter looks at Jesse]'' Cheddar, Mr. White. Fat stacks. Dead Presidents. Cash money. We're gonna own this city.
+:'''Walter''': We're not charging enough.
+:'''Jesse''': What?
+:'''Walter''': Corner the market, then raise the price. Simple economics.
+
+=== ''Better Call Saul'' [2.08] ===
+:''[Hank is holed up in bed due to the trauma from the Tortuga bomb incident]''
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': I have spent my whole life scared &ndash; frightened of things that could happen, might happen, might not happen. Fifty years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.
+:'''[[w:Hank Schrader|Hank]]''': ''Hmmm''...okay.
+:'''Walter''': And I came to realize: it's that fear, that's the worst of it. That's the real enemy. So... get up, get out in the real world, and you kick that bastard as hard as you can right in the teeth.
+
+<hr width="50%"/>
+:''[Saul enters the interrogation room where Badger is being questioned]''
+:'''[[w:Saul Goodman|Saul Goodman]]''': ''[buzzer sound]'' What're you doin', detective? What're you doing, talking to my client without me present? You sneaky Pete! ''[looks at Getz]'' Heh, which is which? What, did the- did the academy hire you right out of the womb? You guys get younger every- ''[to Badger]'' What'd you say to baby face, huh? Did you say anything stupid? By anything stupid, I mean ''anything at all''.
+:'''Badger''': I-
+:'''Saul''': Oh, look at you. Mouth open, vocal chords a-twitter... we'll talk about it later. ''[to Getz]'' Right now, you. Out. Ten minutes ago. Go on. There are ''laws'', detective; have your kindergarten teacher read them to you, alright? Go grab a juice box, have a nap, go on. ''[Getz leaves]'' All right, who do we have?
+:'''Badger''': Brandon Mayhew.
+:'''Saul''': ''[looking through his files]'' Brandon Mayhew...alright...Brandon Mayhew...ah, here we go. Public masturbation.
+:'''Badger''': What?
+:'''Saul''': I don't get it. What's the kick? Why don't you do it at home like the rest of us, with a big flatscreen TV, fifty channels of Pay-Per-View? ''[looks back at the file]'' In a Starbucks! That's nice, ''heh heh''.
+:'''Badger''': That ain't me, man! I'm&ndash; I was the guy who was selling meth...allegedly.
+:'''Saul''': ''[looking through his files]'' Okay, all right, I gotcha. Meth. Right. Sorry, that was a little transpositional error. Nothing that a little white-out can't take care of. Yeah, and uh... felony quantity.
+:'''Badger:''' Just barely.
+:'''Saul''': Yeah, just barely. The cops around here are like butchers - always got their thumbs on the scales, y'know - but good luck arguing that in court. Let me get down to brass tacks: I'm gonna get you a second phone call, okay? You're gonna call your mommy or your daddy or your parish priest or your Boy Scout leader and they're gonna deliver me a check for $4,650. I'm gonna write that down on the back of my business card. ''[Saul writes the amount down]'' Four-six-five-zero. Okay? And I need that in a cashier's check or a money order, doesn't matter &ndash; actually, I want it in a money order... and make it out to Ice Station Zebra Associates. That's my loan-out. It's totally legit. It's done just for tax purposes. And after that, we can discuss Visa or MasterCard, but definitely ''not'' American Express, so don't even ask. All right? Any questions?
+:'''Badger:''' Uh... you're gonna get me off, right?
+:'''Saul''': What do I look like, your high school girlfriend? Five fingers, no waiting? ''[Badger stares at him]'' That's a joke, Brandon! Lighten up! ''[in low voice]'' Son, I promise you this: I will give you the best criminal defense that money can buy.
+
+<hr width="50%"/>
+:''[Walt and Jesse pull up outside Saul's strip mall office]''
+:'''[[w:Jesse Pinkman|Jesse]]''': Sooner or later, this was gonna happen. If you want your "exponential growth", guys are gonna get busted. Simple as that.
+:'''Walter''': So, how about we get him a real attorney? I mean, what the hell is this? This is who he hires?
+:'''Jesse''': What? You kidding me? ''This'' is the guy you want. This is the guy I'd hire.
+:'''Walter''': ''[sarcastically]'' ''Ooh'', this is the guy you'd hire.
+:'''Jesse''': Look, you remember Emilio? 'Kay, this dude got Emilio off, like, twice. 'Kay, both times they had him dead to rights, yo, and then "poof." Dude's like [[w:Harry Houdini|Houdini]]. Seriously, when the going gets tough, you don't want a criminal lawyer, all right? You want a ''criminal lawyer''. You know what I'm saying?
+
+<hr width="50%"/>
+:''[Walt and Jesse kidnap Saul and take him out to an open grave in the desert]''
+:'''Saul''': No, it wasn't me! It was [[w:Nacho Varga|Ignacio]], he's the one! Oh no, oh no, no, no, no! ''Siempre soy amigo! Siempre! Siempre soy amigo del cartel!''
+:'''Jesse''': Shut up, dude! Shut up, alright? Just speak English.
+:'''Saul''': [[w:Lalo Salamanca|Lalo]] didn't send you? No Lalo?!
+:'''Jesse''': ...Who?
+:'''Saul''': ''Oh, thank God! Oh, Christ! Oh,'' I thought... Wha-what can I do for you, gentlemen? Anything, just-just tell me what you need!
+:'''Jesse''': This afternoon, an associate of ours offered you $10,000. You should have taken it.
+:'''Saul''': Wait a minute, this is in regards to what's-his-name-
+:'''Jesse''': Badger! Brandon Mayhew.
+:'''Saul''': The uncle? The uncle, that was your guy? Heh, no offense, guys, but I don't take bribes from strangers, you know? Better safe than sorry–that's my motto. But I'll take your money, sure!
+:'''Jesse''': Nah, that offer's expired, yo! 
+:'''Saul''': It was kinda low, anyways, but okay, okay! I'll take it! Just tell me what you need, alright? I'm easy. I'm gonna keep a happy thought and assume this is just a negotiating tactic.
+:'''Jesse''': Alright, listen to me very carefully. You are going to give Badger Mayhew the best legal representation ever, but ''no deals'' with the DEA, alright? Badger will not identify anyone to anybody. If he does, you're dead!
+:'''Saul''': Why don't you just kill Badger? ''[pause]'' I mean, follow me guys: If a mosquito is buzzing around you and it bites you in the ass, you don't go gunning for the mosquito's attorney! You go grab a fly swatter–I mean, so to speak. All due respect, but do I have to spell this out for you?
+:'''Jesse''': We're not killing Badger, yo!
+:'''Saul''': Then you got real problems, okay? Because the DEA's gonna come down on your boy like a proverbial ton of bricks. I mean, I-I don't think I'm going out on a limb here but, hey–he's not gonna like prison. He's gonna sing like Celine Dion, regardless of what you do to me.
+:''[Walt breaks out into a coughing fit]''
+:'''Saul''': Mr. Mayhew? Recognized your cough. Take that mask off, y'know. Get some air. Go on.
+:''[Walt takes off his mask. Jesse smacks him]''
+:'''Saul''': Take it easy! Breathe in, breathe out. I'm gonna stand up, alright, 'cause I got bad knees. ''[gets up]'' That's better. Okay, now listen. The three of us are gonna work this out.
+:'''Jesse''': Yeah? How?
+:'''Saul''': First things first–you're gonna put a dollar in my pocket, both of you. ''[pause]'' You want attorney-client privilege, don't you? So that everything you say is strictly between us. ''I mean it!'' Put a dollar in my pocket! Come on, make it official. Come on, do it. That's it, come on. Just a dollar. 
+:''[Walt puts a dollar in Saul's pocket. Saul turns to Jesse]''
+:'''Saul''': Alright, now you, ski bum. Come on, get with the dollar.
+:'''Walter''': Go on.
+:'''Saul''': Be smart.
+:'''Jesse''': ''What?!'' ''[digs through his wallet]'' All I got's a five.
+:'''Saul''': ''I'll take a five!'' Come on, already. Come on, be cool.
+:''[Jesse puts the dollar in Saul's pocket]''
+:'''Saul''': Okay, now you're both officially represented by Saul Goodman and Associates. Your secrets are safe with me, under threat of disbarment. ''[to Jesse]'' Take the ski mask off. I feel like I'm talking to the [[w:Weather Underground|Weather Underground]].
+:'''Walter''': ''[to Jesse]'' Do it.
+:''[Jesse takes off his ski mask in frustration]''
+:'''Saul''': So if a prison shanking is completely off the table, and we're sure of that?
+:''[Walter is speechless]''
+:'''Jesse''': ''[to Walter]'' No shanking!
+:'''Saul''': Then the way I see it is, somebody's going to prison. It's just a matter of ''who''.
+
+<hr width="50%"/>
+:''[Saul finds Walter after school in the classroom]''
+:'''Saul''': Oh, my God! You really ''are'' a chemistry teacher! ''Heh heh''. Uh, you mind? ''[Saul closes the door]'' I was terrible at chemistry. I'm more of a humanities guy.
+:'''Walter''': How did you find me?
+:'''Saul''': We should talk about that. It should be much, much harder for people to track you down. [[w:Mike Ehrmantraut | My P.I.]] charged me for three hours, so I seriously doubt it took him more than one.
+:'''Walter''': So this is what? Blackmail?
+:'''Saul''': Walter, I'm your lawyer. Anything you say to me is totally privileged. I'm not in the shakedown racket. I'm a lawyer. Even drug dealers need lawyers, right? Especially drug dealers.
+:'''Walter''': So what? You're just doing this out of the kindness of your heart?
+:'''Saul''': C'mon. Have you seen my hourly rate? ''Heh heh''. Oh, by the way, where do you keep the money? Is it in your mattress? Is it in a jelly jar buried in the side yard, huh? You know, this kid Mayhew may be the first of your guys to get picked up, but he won't be the last. And if I can find you, how far behind can the cops be?
+:'''Walter''': I don't understand. What exactly are you offering to do for me?
+:'''Saul''': What did [[w:Tom Hagen|Tom Hagen]] do for [[w:Vito Corleone|Vito Corleone]]?
+:'''Walter''': ''[perplexed while shaking his head]'' I'm no...Vito Corleone.
+:'''Saul''': No shit! Right now, you're [[w:Fredo Corleone|Fredo]]! But, y'know, with some sound advice and proper introductions, who knows? I'll tell you one thing: You've got the right product. Anything that gets the DEA's panties in this big a bunch, you're onto something special. And I would like to be a small and silent part of it. Food for thought, yeah? ''[he starts to head for the door, but stops]'' So if you want to make more money and, uh, keep the money that you make... ''[taps his foot and holds his arms out with flair, pointing to Walter]'' '''''Better Call Saul!'''''
+
+=== ''4 Days Out'' [2.09] ===
+
+:'''[[w:Saul Goodman|Saul]]''': Look, let's crunch some numbers. How much money are we laundering?
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': At this time...$16,000.
+:'''Saul''': How long you been doing this?
+:'''Walter''': We've had some extenuating circumstances.
+:'''Saul''': Yeah, apparently. All right, $16,000 laundered at 75 cents on the dollar, minus my fee, which is 17%, comes out to $9,960. Congratulations, you've just left your family a secondhand Subaru.
+
+<hr width="50%"/>
+:'''Walter''': ''[to Jesse on the payphone]'' Clear your social calendar. We have to cook.
+:'''[[w:Jesse Pinkman|Jesse]]''': What? Today?
+:'''Walter''': No, you'll need today at least to gather supplies. Now, we're going to need all new glassware, heating mantles, about a hundred pounds of ice. Y-you have a paper and pencil? You should be writing this down.
+:'''Jesse''': Yo, you wanna go shopping, go do it yourself, alright? I got plans.
+:'''Walter''': Smoking marijuana, eating Cheetos, and masturbating do not constitute plans in my book.
+:'''Jesse''': Well, screw you and your book, man, alright? I'm going to a museum in Santa Fe, not like you need to know.
+:'''Walter''': You're going to a museum, huh?
+:'''Jesse''': Yeah. Georgia O'Keeffe.
+:'''Walter''': Georgia O'Keeffe?
+:'''Jesse''': She's a painter, duh. She does these vagina pictures. Or paintings, or just painted. I don't know.
+
+<hr width="50%"/>
+:''[After they finish cooking another batch of meth in their RV, Walter and Jesse realize the ignition has stopped working]''
+:'''Jesse''': ''[after turning the keys several times]'' Battery’s dead.
+:'''Walter''': Jesse, back when I asked you to put the keys in a safe place, where did you put them?
+:'''Jesse''': I left them right here. In the, um… in the ignition.
+:'''Walter''': Son of a bitch!
+:'''Jesse''': Whoa, whoa. No, this is not my fault, alright? The buzzer didn’t buzz.
+:'''Walter''': The what?!
+:'''Jesse''': The buzzer! The buzzer that buzzes when you put the keys in to, like, let you know that the battery’s on. I know that! It didn’t buzz. Look, I didn’t turn the key or anything, alright? I’m not stupid! Did you hear the buzzer buzz? I did not... It’s faulty, it’s a faulty mechanism.
+:'''Walter''': Is this just a genetic thing with you? Is it congenital? Did you—Did your mother drop you on your head when you were a baby?!
+:'''Jesse''': The buzzer did not buzz! And you were the one that made me move the keys in the first place, remember?!
+:'''Walter''': Yes, I see your point. Your imbecility being what it is, I should have known to say, "Jesse, don’t leave the keys in the ignition ''the entire two days''!"
+:'''Jesse''': I wanted to leave them on the counter, bitch! Oh, I’m sorry, the "work station!" Jesus!
+
+<hr width="50%"/>
+:''[Walter and Jesse are stranded without water in their RV in the middle of the desert]''
+:'''Walter''': I have this coming.
+:'''Jesse''': What?
+:'''Walter''': I have it coming. I deserve this.
+:'''Jesse''': Snap out of it. All right, first off, everything you did, you did for your family. Right?
+:'''Walter''': All I ever managed to do was worry and disappoint them. And lie. Oh God, the lies...I can't even...can't even keep them straight in my head anymore...
+:'''Jesse''': You know what? Screw this. I'm walking. You can come or not. Where's my other shoe?
+:'''Walter''': Jesse...Jesse...Your body is running dangerously low on electrolytes. Sodium, potassium, calcium...and when they're gone, your brain ceases to communicate with the muscles. Your lungs stop breathing. Your heart stops pumping. You go marching out there, and within an hour, you will be dead.
+:'''Jesse''': You need to cut out all your loser crybaby crap right now and think of something scientific!
+:'''Walter''': ''[laughs weakly]'' Something... something scientific, right...
+:'''Jesse''': Like, come on! Man, you're smart! All right, you made poison out of beans, yo! Look, we've got an entire lab right here. How about you take some of these chemicals and mix up some... some rocket fuel, that way we could just send up a signal flare. Or you make some kind of robot to get us help... or a homing device... or building a battery... ''[Walt's eyes snap open]'' Or what if we just take some stuff off of the RV and build it into something completely different? You know, like a... like a dune buggy! And that way we could just dune buggy our... ''[Walt sits up]'' What? Hey... what is it? What?
+:'''Walter''': Do you... do you have any money? Change, I mean, coins?
+:'''Jesse''': Yeah, yeah, I got a bunch of 'em!
+:'''Walter''': Okay... ''[gets up]''
+:'''Jesse''': Yes!
+:'''Walter''': Gather them. And&ndash;and&ndash;and washers, and nuts and bolts and screws, and whatever little pieces of metal we can think of that is galvanized &ndash; it has to be galvanized &ndash; or&ndash;or solid zinc.
+:'''Jesse''': ''[starts to head outside]'' Solid zinc...
+:'''Walter''': And&ndash;and&ndash;and bring me... brake pads! The front wheels should have discs. Take them off and bring them to me.
+:'''Jesse''': All right, all right...
+:'''Walter''': ''[kicks a toolbox toward Jesse]'' Brake pads!
+:'''Jesse''': What are we building?
+:'''Walter''': You said it yourself.
+:'''Jesse''': A robot?
+:'''Walter''': ...A battery.
+
+<hr width="50%"/>
+:'''Walter''': And now, what shall we use to conduct this beautiful current with, hm? What one particular element comes to mind, hm? ''[Walter holds up a copper wire]'' ''Hmm?''
+:'''Jesse''': ''Ooooh'', wire.
+:'''Walter''': ...Copper.
+:'''Jesse''': Oh, I mean...
+:'''Walter''': It's copper.
+
+=== ''Over'' [2.10] ===
+
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': The upshot is that I have [[w:Radiation-induced lung injury|radiation pneumonitis]].
+:'''[[w:Jesse Pinkman|Jesse]]''': Damn...
+:'''Walter''': Actually, it's not as bad as it sounds. It's a fairly common occurrence. Easily treated. In fact, the news is all good.
+:'''Jesse''': You mean, good? You mean, like, good good? You mean, like, ''remission'' good?
+:'''Walter''': Remission. Not to imply I'm cured. I still have cancer, but there's been a significant reduction in the tumors.
+:'''Jesse''': How significant?
+:'''Walter''': Eighty percent.
+:'''Jesse''': Dude! No way!
+:'''Walter''': I'm not out of the woods yet, not by any stretch...but "options" is the word they keep bandying about.
+:'''Jesse''': That's awesome! Serious? That's...that's...that's great, man! My aunt, she never...I mean, y'know, at your stage I didn't even think that could happen.
+:'''Walter''': ''Eh''.
+:'''Jesse''': Mr. White, you kicked its ass, yo! ''[Walter motions for Jesse to quiet down]'' No! You must be so psyched!
+:'''Walter''': Of course. I am.
+:'''Jesse''': Okay, now we...I mean, what do we...Oh! Hey, I almost forgot. ''[Jesse hands Walter a paper bag filled with money]'' So, how do you want to...y'know...proceed in light of this kickass news?
+:'''Walter''': We'll take our time and stay cautious. Sell off what we have and then...well, then I guess I'm done.
+
+<hr width="50%"/>
+:'''Walter''': Um...well, it's kind of funny. When I got my diagnosis &ndash; cancer &ndash; I said to myself, y'know, "Why me?" And then, the other day when I got the good news, I said the same thing. ''[The party guests are silent with confusion]'' Anyway, uh, thank you for coming and...enjoy.
+:'''[[w:Hank Schrader|Hank]]''': Wow. Inspirational.
+
+<hr width="50%"/>
+:''[Hank takes a bottle of tequila away after Walter keeps pouring shots for Walter Jr.]''
+:'''Walter''': Hey! Bring. The bottle. Back.
+:'''Hank''': Sorry, buddy. No can do.
+:'''Walter''': My son! My bottle! My house!
+:'''Hank''': ''[to other party guests]'' It's all right.
+:'''Walter''': What are you waiting for? Bring it back!
+:'''Hank''': Why don't we just call it a day? All right, pal? We good?
+:''[Hank puts his hand on Walter's shoulder. Walter smacks it away]''
+:'''Walter''': The bottle. Now.
+:'''Skyler''': What's going on?
+:''[Walter Jr. vomits into the pool. Skyler and Hank rush over to him. Walter sits back down and smiles to himself]''
+
+<hr width="50%"/>
+:''[Jane is looking at Jesse's superhero sketches]''
+:'''Jane''': And this is?
+:'''Jesse''': That's Backwardo. Oh wait, no, actually I changed it to Rewindo. Anyways, he goes backwards. He can make everything go in reverse.
+:'''Jane''': Time and stuff? Time traveling?
+:'''Jesse''': No, he just walks backwards.
+
+<hr width="50%"/>
+:'''Walter''': Stay out of my territory.
+
+=== ''Mandala'' [2.11] ===
+
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': God. This entire process has just been so... It's always been one step forward and two steps back. We need your help.
+:'''[[w:Saul Goodman|Saul]]''': Look, let's start with some tough love, alright? Ready for this? Here it goes: you two suck at peddling meth. Period.
+
+<hr width="50%"/>
+:''[Walt deduces that the on-duty manager of a Los Pollos Hermanos is probably the distributor who wouldn't meet with him. He summons Gus to his table]''
+:'''[[w:Gus Fring|Gus]]''': What can I do for you?
+:'''Walter''': Have a seat. Please. ''[Gus sits down across from Walt]'' I would like to know why you wouldn't meet with me yesterday.
+:'''Gus''': I'm sorry, I'm not following.
+:'''Walter''': I sat here yesterday waiting to meet with someone. I believe that person was you.
+:'''Gus''': I think that you're confusing me for someone else.
+:'''Walter''': I don't think I am.
+:'''Gus''': Sir, if you have a complaint, I suggest you submit it through our e-mail system. I'd be happy to refer you to our website.
+:'''Walter''': I was told that the man I'd be meeting with was very careful. A cautious man. I believe we are alike in that way. If you are who I think you are, you should give me another chance.
+:''[Gus's demeanor suddenly changes: the open expression remains, but we are instantly made aware that this is a façade, and Gus's true self emerges.]''.
+:'''Gus''': I don't think we're alike at all, Mr. White. You are not a cautious man at all. Your partner was late. And he was high.
+:'''Walter''': Yes. Yes, he was.
+:'''Gus''': He's high often, isn't he? ''[Walter does not answer]'' You have poor judgment. I can't work with someone with poor judgment.
+:'''Walter''': Are you familiar with my product?
+:'''Gus''': I've been told it's excellent.
+:'''Walter''': It is impeccable. It is the purest, most chemically sound product on the market, anywhere.
+:'''Gus''': That is not the only factor.
+:'''Walter''': You could charge twice the current rate for what I provide and your customers would pay it, hands down. Now, who I choose to do business with on my end is not your problem. You won't see him, you won't interact with him. Forget he exists.
+:'''Gus''': I have to ask why. Why him?
+:'''Walter''': Because he does what I say. Because I can trust him.
+:'''Gus''': How much product do you have left?
+:'''Walter''': 38 pounds. Ready to go at a moment's notice. ''[Gus gets up]'' Will I hear from you?
+:'''Gus''': I have your numbers. ''[softly]'' You can never trust a drug addict.
+
+<hr width="50%"/>
+:''[Skinny Pete is describing Combo's funeral]''
+:'''Skinny Pete''': And you should've seen the coffin. It was like this shiny white pearlescence, like, I'm pretty sure I seen the exact same paint job on a Lexus, right? So we're definitely talking high end.
+
+<hr width="50%"/>
+:''[Jesse and Jane are injecting heroin]''
+:'''[[w:Jesse Pinkman|Jesse]]''': What's it feel like?
+:'''Jane''': There's a chill. Don't freak out, it passes. And then...you'll see. ''[Jane kisses Jesse]'' I'll meet you there.
+
+<hr width="50%"/>
+:''[As Walt gets up to leave Los Pollos Hermanos, having learned Gus's name, Victor suddenly steps in front of him and blocks him from leaving]''
+:'''Victor''': 38 pounds, $1.2 million, [deliver to the] truck stop, two miles south of Exit 13 on the [[w:Interstate 25|25]]. One hour.
+:'''Walter''': W-What?
+:'''Victor''': One hour. You in or out?
+:'''Walter''': In, in, absolutely, but I just need a little more time...
+:'''Victor''': One hour. If you miss it, don't ever show your face in here again.
+
+=== ''Phoenix'' [2.12] ===
+
+:'''[[w:Jesse Pinkman|Jesse]]''': How much?
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': How much what?
+:'''Jesse''': How much did you get for the deal?
+:'''Walter''': $1.2 million.
+:'''Jesse''': $600,000 each.
+:'''Walter''': $480,000. Saul's cut is 20%.
+:'''Jesse''' All right, so where's my money?
+:'''Walter''': ''Ha!''
+:'''Jesse''': What?
+:'''Walter''': You are joking, right? If I gave you that money, you would be dead inside of a week.
+:'''Jesse''': Yo man, look, I'm off the heroin. I didn't even like it anyway, it made me sick. And the meth, y'know, I could take it or leave it. I'm clean, Mr. White. For real.
+:''[Walter tosses an empty beaker to Jesse]''
+:'''Walter''': Prove it. Pee in that.
+:'''Jesse''': How gay are you, seriously?
+:'''Walter''': Pee in it! They're selling testing kits at the drug stores. If you are clean, I will give you every last dime. ''[Jesse is silent]'' No, huh? Well, I guess until then, you'll just have to depend on the kindness of strangers to get high. That and your little junkie girlfriend.
+:''[Jesse throws the beaker at Walter. Walter ducks and it shatters against the chalkboard]''
+
+<hr width="50%"/>
+:'''Walter''': No, no, it cannot be blind luck or some imaginary relative who saves us. No, I earned that money. ''Me!'' And now my son created his own website &ndash; SaveWalterWhite.com. Soliciting anonymous donations! Do you have any idea how that makes me feel?!
+:'''[[w:Saul Goodman|Saul]]''': Well, look at that. It's got [[w:PayPal|PayPal]] and everything.
+:'''Walter''': Cyber-begging, that's all that is. Just rattling a little tin cup to the entire world.
+:'''Saul''': ''[sarcastically]'' Yeah, there's no deep-seated issues there. Walter, I'm looking at the answer right here. It's staring me in the face. Do I have to spell it out for you?
+:'''Walter''': I know, I know. You're thinking that I should be funneling money into my son's website, but absolutely not. No. I am not going to have my family think that some mystery benefactor saved us!
+:'''Saul''': Not some mystery benefactor, singular. That would raise too many questions. However—stay with me here... Zombies. ''[chuckles]'' I got a guy who knows this guy, who knows this ''[[w:Rain Man (film)|Rain Man]]'' type. Right? He lives with his mother in her basement in Belarus, alright? So good luck extraditing his fat Russian ass. ''[Walter is about to leave when Saul stops him]'' Wait, wait! He's a hacker-cracker extraordinaire. This guy can hijack random desktops all around the world, turn them into zombies that do his bidding. For instance, he can make it so 20, or 30,000 ''little'' donations come in from all over the U.S. and Canada. Ten, 20, 50 bucks a pop, all paid in full—nice and neat, untraceable—from the good-hearted people of the world to Mr. Walter H. White, cancer saint. Heh. I'm getting a warm and fuzzy feeling just thinking about it.
+
+<hr width="50%"/>
+:'''Jane''': Do right by Jesse tonight or I will burn you to the ground.
+:'''Walter''': [to Jesse] Nice job wearing the pants.
+
+<hr width="50%"/>
+:'''Jane''': Do you know what this is?
+:'''Jesse''': It's a whole lot of cheddar.
+:'''Jane''': This is freedom! This is saying I can go anywhere I want! I can be anybody! Who do you want to be? Where do you want to go? South America? Europe? Australia?
+:'''Jesse''': Is New Zealand part of Australia?
+:'''Jane''': New Zealand is New Zealand!
+:'''Jesse''': Right on. New Zealand, that's where they, uh, that's where they made ''[[w:The Lord of the Rings film trilogy|Lord of the Rings]]''! I say we just move there, yo! I mean, you could do your art, right? Like, you could like paint the local castles and shit, and I can be a bush pilot!
+
+<hr width="50%"/>
+:''[Jane's father, Donald, discovers Jesse in her bedroom and tries to throw him out. Jesse finds a baseball bat during the scuffle and threatens Donald with it]''
+:'''Jesse''': What's with you, yo, huh?! 'Cause I will seriously bust you up!
+:'''Donald Margolis''': You miserable little smack-head! Get the hell out!
+:'''Jesse''': Hey, I pay my rent, bitch! Alright?! I got civil rights!
+
+=== ''ABQ'' [2.13] ===
+:'''[[w:Mike Ehrmantraut|Mike]]''': ''[to Jesse]'' Saul Goodman sent me. ''[pause]'' Come on, inside. Latch the door. Where is she?
+:''[Jesse turns his head in the direction of his bedroom. Mike puts on gloves as he walks down the hall; he then looks around and stares briefly at Jane's body before putting Jesse's drug paraphernalia inside a bag and cleaning up the room.]'' 
+:'''Mike''': Any other drugs in the house? Think hard. Your freedom depends on it. ''[Jesse shakes his head]'' What about guns? You got any guns in the house? ''[Jesse shakes his head again]'' Here's your story: You woke up. You found her. That's all you know. Say it. Say it, please. "I woke up. I found her. That's all I know." ''[Jesse begins to cry; Mike slaps him]'' Say it. "I woke up. I found her. That's all I know."
+:'''[[w:Jesse Pinkman|Jesse]]''': I woke up. I found her. That's all I know.
+:'''Mike''': Again.
+:'''Jesse''': I woke up. I found her. That's all I know.
+:'''Mike''': Again. Again.
+:'''Jesse''': ''[in rushing tone]'' I woke up. I found her. That's all I know. I woke up. I found her. That's all I know.
+:'''Mike''': Once you call it in, the people who show up will be with the Office of Medical Investigations. That's primarily who you'll talk to. Police officers may arrive, they may not. Depends on how busy a morning they're having. Typically OD's are not a high priority call. There's nothing here to incriminate you, so I'd be amazed if you got placed under arrest. However, if you do, you say nothing. You tell them you just want your lawyer and you call Saul Goodman. And do I need to state the obvious? I was not here. You put on a long sleeve shirt and cover those track marks on your arm. ''[hands Jesse a phone]'' Count down from twenty and then you dial. ''[zips up the bag with Jesse's money]'' Hang tough. You're in the home stretch.
+
+<hr width="50%"/>
+:''[Walt finds Jesse strung out in a trap house and rushes over to him]''
+:'''[[w:Walter White (Breaking Bad)|Walter]]''': Jesse. Jesse! Look at me, son. Wake up. Wake up.
+:'''Jesse''': Hey. I ain't got nothing for you, man. It's all gone.
+:'''Walter''': Jesse, wake up. Just- ''(Jesse starts thrashing)'' Jesse! Jesse, it's me! It's Walt! It's Walt.
+:'''Jesse''': Yeah...
+:'''Walter''': Come on, let's get out of here.
+:'''Jesse''': No, nonono, no, nono, no. I'm good.
+:'''Walter''': Come on. Help me out, now.
+:'''Jesse''': I'm good. I'm good - right here, man. Right here.
+:'''Walter''': Listen, Jesse. You are not good right here. You are not good at all, you hear? Now, you just put your arms around me. Come on. You're gonna stand up, and we're gonna- we're gonna walk out of here. Okay? ''(Jesse does so)'' We're gonna take you someplace nice and safe. That's it. Now, let's go, come on. Here we go.
+:''[Jesse starts sobbing]''
+:'''Jesse''': I killed her.
+:'''Walter''': What?
+:'''Jesse''': ''I killed her, it was me!'' I killed her, man, I killed her!
+:'''Walter''': Jesse, look at me. Look at me. You didn't kill anybody.
+:'''Jesse''': I loved her... [''continues sobbing''] ''I loved her more than anything!''
+:''[Walter hugs him]''
+
+<hr width="50%"/>
+:'''Walter''': Look, Jesse, lingering on things doesn't help, believe me. Just... try and focus on getting better, okay?
+:'''Jesse''': I deserve this.
+:'''Walter''': What?
+:'''Jesse''': What you said in the desert. I get it. What you meant. I deserve whatever happens.
+
+<hr width="50%"/>
+:[''Due to Saul's steady stream of small donations, "SaveWalterWhite.com" ends up making the local news'']
+:'''Karen''': Judging from the things you and other folks have written about him, your dad must be quite a guy.
+:'''[[w:Walter White, Jr.|Walter Jr.]]''': Yeah, he is. He's the best.
+:'''Karen''': You don't want to lose him, do you, Walter?
+:'''Walter Jr.''' None of us do. We love him.
+:'''Karen''': He's a good man, isn't he?
+:'''Walter Jr.''': Absolutely. Ask anyone, anybody. He's a great father, a great teacher. He knows like everything there is to know about chemistry. He's patient with you, he's always there for you. He's just decent. And he always does the right thing and that's how he teaches me to be.
+:'''Karen''': Would you say he's your hero?
+:'''Walter Jr.''': Oh yeah, yes ma'am, totally. My dad is my hero.
+
+<hr width="50%"/>
+:'''Walter''': What are you doing?
+:'''[[w:Skyler White|Skyler]]''': I'm going to Hank and Marie's for the weekend.
+:'''Walter''': Since when?
+:'''Skyler''': I'm taking the baby with me. Marie will pick up Walter Jr. from school. You will have the house to yourself for two days. I want you to pack your things and leave.
+:'''Walter''': Why would I do that?
+:'''Skyler''': Hank has offered to help since you shouldn't be doing any heavy lifting.
+:'''Walter''': Skyler...
+:'''Skyler''': I want you gone by Monday morning. I want...I want you gone.
+:'''Walter''': Okay, can you at least tell me why?
+:'''Skyler''': Because you're a liar, Walt. Two cell phones after all.
+:'''Walter''': What?
+:'''Skyler''': Right before your surgery, I asked if you had packed your cell phone and you said, "Which one?"
+:'''Walter''': When? Skyler, I was medicated. I mean, I could have said the world was flat.
+:'''Skyler''': You know what I think? I think you accidentally told the truth.
+:'''Walter''': Honey, we have been over this. Asked and answered, right? There&ndash;
+:'''Skyler''': But then it got me thinking again about the all the strange behavior. Not the least of which was the disappearance. Out of my mind with worry, calling hospitals, checking the morgue. Your fugue state? I had to believe that, didn't I? I had to find a way. I mean, who would lie about such a thing?
+:'''Walter''': You tell me, Skyler. You tell me exactly what it is you think I'm lying about. What, an affair? I'm having an affair? Is that what you think?
+:'''Skyler''': That's what I was thinking, yeah. For the last few weeks.
+:'''Walter''': With whom? Who am I having an affair with?
+:'''Skyler''': Well, my guess was Gretchen Schwartz. Something was going on between you. I just knew.
+:'''Walter''': Jesus, Skyler. Get me a Bible to swear on, if that's what it takes. I am not having an affair with Gretchen!
+:'''Skyler''': Oh, I know. I know you're not. 'Cause I asked her. It really took me forever to get in touch with her. She was ducking my calls for weeks. So I finally left a message, "What exactly is going on between you and my husband?" I thought that'd get her attention and it did. So she called me back and she finally told me. The money? For your treatment? Gretchen and Elliott didn't give you a dime. They paid for nothing. You refused every offer they made you, but that didn't make sense because I checked with Delcavoli in the hospital and, not including your surgery, we're nearly paid up. Over $100,000. Out of where? Out of thin air? But then, I called your mother. Yeah. Thanks for that, too. But I thought, y'know, maybe she has some money that I don't know about? Maybe she contributed? It's possible. It turns out that not only is the money not your mother, she didn't even know that you have cancer. You never went to see her. I dropped you at the airport, I picked you up, you were gone for four days, and yet she swears that you were never there. Lies on top of lies on top of lies.
+:'''Walter''': Skyler...
+:'''Skyler''' Could you, just once, do me the courtesy of not denying it?
+:''[Walter is silent. Skyler heads to the car]''
+:'''Walter''': Skyler...Skyler, don't do this, please. I...I...Skyler, please don't go. ''[Skyler tries to close the car door, but Walter stops her]'' If I tell you the truth, will you stay? Stay and I will tell you everything.
+:'''Skyler''': Whatever it is, I'm afraid to know.
+:''[Skyler closes the car door and drives off]''
+
+==External links==
+{{Wikipedia}}
+[[Category:Breaking Bad seasons]]
