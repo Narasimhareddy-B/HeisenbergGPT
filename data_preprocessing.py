@@ -90,7 +90,23 @@ class Vocab:
         self.token_freqs = sorted(counter.items(), key=lambda x: x[1], reverse=True)
         self.min_freq = min_freq
         self.special_tokens = special_tokens
-        self.word2idx = {}
-        self.idx2word = {}
-        
+        self.tokens = list(sorted(set(['<unk>'] + special_tokens + [token for token, freq in self.token_freqs if freq >= min_freq])))
+        print(f'Vocab size : {len(self.tokens)}') 
+        self.token_to_idx = {token : idx for idx, token in enumerate(self.tokens)}
+        self.idx_to_token = {idx : token for idx, token in enumerate(self.tokens)}
+
+    def __len__(self):
+        return len(self.tokens)
+    
+    def __getitem__(self, tokens):
+        if isinstance(tokens, (list, tuple)):
+            return [self.__getitem__(token) for token in tokens]
+        return self.token_to_idx.get(tokens, self.token_to_idx['<unk>'])
+    
+    def to_tokens(self, indices):
+        if hasattr(indices, '__len__') and len(indices) > 1:
+            return [self.idx_to_token[int(index)] for index in indices]
+        return self.idx_to_token[int(indices)]
+    def __str__(self):
+        return f'Vocab : {len(self.tokens)} tokens'
        
