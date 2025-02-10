@@ -1,0 +1,7 @@
+.vscode
+.git
+Data/*.txt
+*.txt
+.json
+*.log
+
