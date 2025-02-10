@@ -2,6 +2,7 @@
 .git
 Data/*.txt
 *.txt
-.json
+*.json
 *.log
-
+*.ipynb 
+*.ipynb_checkpoints
